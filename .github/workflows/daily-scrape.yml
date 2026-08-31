@@ -1,0 +1,37 @@
+name: Daily Rising Stocks Scrape
+
+on:
+  schedule:
+    # 한국시간(KST) 기준 실행 시각 = UTC + 9시간
+    # 아래는 UTC 기준. 예: 매일 09:40, 12:00, 15:35 (KST) 에 실행
+    - cron: "40 0 * * 1-5"   # KST 09:40 (개장 직후)
+    - cron: "0 3 * * 1-5"    # KST 12:00 (점심)
+    - cron: "35 6 * * 1-5"   # KST 15:35 (장마감 직후)
+  workflow_dispatch: {}       # 수동 실행 버튼도 사용 가능
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python scrape_rising.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json
+          git diff --quiet --cached || git commit -m "chore: update rising stocks $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
