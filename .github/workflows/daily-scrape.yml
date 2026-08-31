@@ -3,11 +3,10 @@ name: Daily Rising Stocks Scrape
 on:
   schedule:
     # 한국시간(KST) 기준 실행 시각 = UTC + 9시간
-    # 아래는 UTC 기준. 예: 매일 09:40, 12:00, 15:35 (KST) 에 실행
-    - cron: "40 0 * * 1-5"   # KST 09:40 (개장 직후)
-    - cron: "0 3 * * 1-5"    # KST 12:00 (점심)
-    - cron: "35 6 * * 1-5"   # KST 15:35 (장마감 직후)
-  workflow_dispatch: {}       # 수동 실행 버튼도 사용 가능
+    # 매 정시(0분)는 GitHub 전체에서 몰려 지연되기 쉬워 3분 오프셋을 줌
+    # 09:03 ~ 15:53 KST (00:03 ~ 06:53 UTC) 사이 10분 간격, 평일만 실행
+    - cron: "3,13,23,33,43,53 0-6 * * 1-5"
+  workflow_dispatch: {}
 
 permissions:
   contents: write
