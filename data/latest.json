@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T15:52:37.459490+09:00",
+  "updated_at": "2026-09-08T16:02:09.592518+09:00",
   "date": "2026-09-08",
   "kospi": [
     {
@@ -7,7 +7,7 @@
       "code": "004310",
       "price": "10440",
       "change_amt": "+23.99%",
-      "change_pct": "31,960,297",
+      "change_pct": "31,962,413",
       "volume": "10440",
       "status": "상승2,020"
     },
@@ -16,7 +16,7 @@
       "code": "010580",
       "price": "2095",
       "change_amt": "+23.53%",
-      "change_pct": "13,779,165",
+      "change_pct": "13,782,022",
       "volume": "2090",
       "status": "상승399"
     },
@@ -34,7 +34,7 @@
       "code": "017900",
       "price": "8180",
       "change_amt": "+15.37%",
-      "change_pct": "14,452,081",
+      "change_pct": "14,453,226",
       "volume": "8180",
       "status": "상승1,090"
     },
@@ -43,7 +43,7 @@
       "code": "011700",
       "price": "2630",
       "change_amt": "+10.74%",
-      "change_pct": "2,554,610",
+      "change_pct": "2,555,760",
       "volume": "2625",
       "status": "상승255"
     },
@@ -52,7 +52,7 @@
       "code": "035510",
       "price": "15300",
       "change_amt": "+10.15%",
-      "change_pct": "369,274",
+      "change_pct": "369,497",
       "volume": "15200",
       "status": "상승1,410"
     },
@@ -61,7 +61,7 @@
       "code": "047040",
       "price": "19970",
       "change_amt": "+8.47%",
-      "change_pct": "26,833,713",
+      "change_pct": "26,835,543",
       "volume": "19960",
       "status": "상승1,560"
     },
@@ -79,7 +79,7 @@
       "code": "089590",
       "price": "4970",
       "change_amt": "+7.46%",
-      "change_pct": "679,252",
+      "change_pct": "679,291",
       "volume": "4970",
       "status": "상승345"
     },
@@ -115,7 +115,7 @@
       "code": "004770",
       "price": "2160",
       "change_amt": "+6.67%",
-      "change_pct": "2,843,405",
+      "change_pct": "2,843,415",
       "volume": "2155",
       "status": "상승135"
     },
@@ -142,7 +142,7 @@
       "code": "017180",
       "price": "1320",
       "change_amt": "+6.02%",
-      "change_pct": "1,879,701",
+      "change_pct": "1,879,716",
       "volume": "1320",
       "status": "상승75"
     },
@@ -151,7 +151,7 @@
       "code": "025820",
       "price": "4520",
       "change_amt": "+5.98%",
-      "change_pct": "1,018,046",
+      "change_pct": "1,018,047",
       "volume": "4515",
       "status": "상승255"
     },
@@ -160,7 +160,7 @@
       "code": "249420",
       "price": "15940",
       "change_amt": "+5.98%",
-      "change_pct": "881,101",
+      "change_pct": "881,251",
       "volume": "15930",
       "status": "상승900"
     },
@@ -214,7 +214,7 @@
       "code": "272450",
       "price": "6500",
       "change_amt": "+5.18%",
-      "change_pct": "321,160",
+      "change_pct": "321,360",
       "volume": "6500",
       "status": "상승320"
     },
@@ -268,7 +268,7 @@
       "code": "0091P0",
       "price": "18600",
       "change_amt": "+4.32%",
-      "change_pct": "6,673,293",
+      "change_pct": "6,673,325",
       "volume": "18600",
       "status": "상승770"
     },
@@ -277,7 +277,7 @@
       "code": "530107",
       "price": "1858",
       "change_amt": "+4.32%",
-      "change_pct": "19,968,931",
+      "change_pct": "20,015,429",
       "volume": "1858",
       "status": "상승77"
     },
@@ -286,7 +286,7 @@
       "code": "130660",
       "price": "13270",
       "change_amt": "+4.24%",
-      "change_pct": "4,344,685",
+      "change_pct": "4,345,108",
       "volume": "13270",
       "status": "상승540"
     },
@@ -295,7 +295,7 @@
       "code": "105840",
       "price": "14350",
       "change_amt": "+4.21%",
-      "change_pct": "1,359,212",
+      "change_pct": "1,359,397",
       "volume": "14340",
       "status": "상승580"
     },
@@ -304,7 +304,7 @@
       "code": "008970",
       "price": "1191",
       "change_amt": "+4.20%",
-      "change_pct": "5,546,211",
+      "change_pct": "5,546,241",
       "volume": "1191",
       "status": "상승48"
     },
@@ -322,7 +322,7 @@
       "code": "015760",
       "price": "34100",
       "change_amt": "+4.12%",
-      "change_pct": "3,536,656",
+      "change_pct": "3,536,667",
       "volume": "34050",
       "status": "상승1,350"
     },
@@ -331,7 +331,7 @@
       "code": "433500",
       "price": "61030",
       "change_amt": "+3.83%",
-      "change_pct": "228,104",
+      "change_pct": "228,105",
       "volume": "61030",
       "status": "상승2,250"
     },
@@ -340,7 +340,7 @@
       "code": "0098F0",
       "price": "17250",
       "change_amt": "+3.73%",
-      "change_pct": "2,277,762",
+      "change_pct": "2,277,779",
       "volume": "17250",
       "status": "상승620"
     },
@@ -367,7 +367,7 @@
       "code": "0092B0",
       "price": "16945",
       "change_amt": "+3.64%",
-      "change_pct": "580,106",
+      "change_pct": "580,171",
       "volume": "16945",
       "status": "상승595"
     },
@@ -430,7 +430,7 @@
       "code": "117700",
       "price": "7230",
       "change_amt": "+3.29%",
-      "change_pct": "5,135,555",
+      "change_pct": "5,135,749",
       "volume": "7230",
       "status": "상승230"
     },
@@ -457,7 +457,7 @@
       "code": "139220",
       "price": "8270",
       "change_amt": "+3.12%",
-      "change_pct": "979,546",
+      "change_pct": "979,928",
       "volume": "8270",
       "status": "상승250"
     },
@@ -601,7 +601,7 @@
       "code": "530031",
       "price": "2975",
       "change_amt": "+2.76%",
-      "change_pct": "212,759",
+      "change_pct": "213,762",
       "volume": "2970",
       "status": "상승80"
     },
@@ -637,7 +637,7 @@
       "code": "251340",
       "price": "2485",
       "change_amt": "+2.69%",
-      "change_pct": "25,920,300",
+      "change_pct": "25,975,326",
       "volume": "2485",
       "status": "상승65"
     },
@@ -691,7 +691,7 @@
       "code": "000990",
       "price": "103400",
       "change_amt": "+2.58%",
-      "change_pct": "896,826",
+      "change_pct": "896,908",
       "volume": "103300",
       "status": "상승2,600"
     },
@@ -700,7 +700,7 @@
       "code": "252710",
       "price": "80",
       "change_amt": "+2.56%",
-      "change_pct": "61,380,769",
+      "change_pct": "61,380,919",
       "volume": "79",
       "status": "상승2"
     },
@@ -790,7 +790,7 @@
       "code": "028050",
       "price": "49150",
       "change_amt": "+2.40%",
-      "change_pct": "3,092,846",
+      "change_pct": "3,093,100",
       "volume": "49150",
       "status": "상승1,150"
     },
@@ -916,7 +916,7 @@
       "code": "004100",
       "price": "2830",
       "change_amt": "+2.17%",
-      "change_pct": "390,821",
+      "change_pct": "391,320",
       "volume": "2825",
       "status": "상승60"
     },
@@ -934,7 +934,7 @@
       "code": "465350",
       "price": "16505",
       "change_amt": "+2.17%",
-      "change_pct": "37,758",
+      "change_pct": "37,815",
       "volume": "16495",
       "status": "상승350"
     },
@@ -1006,7 +1006,7 @@
       "code": "004170",
       "price": "404500",
       "change_amt": "+2.02%",
-      "change_pct": "97,107",
+      "change_pct": "97,109",
       "volume": "404500",
       "status": "상승8,000"
     },
@@ -1096,7 +1096,7 @@
       "code": "034020",
       "price": "89500",
       "change_amt": "+1.82%",
-      "change_pct": "5,754,040",
+      "change_pct": "5,754,041",
       "volume": "89400",
       "status": "상승1,600"
     },
@@ -1177,7 +1177,7 @@
       "code": "0193T0",
       "price": "11155",
       "change_amt": "+1.73%",
-      "change_pct": "36,800,393",
+      "change_pct": "36,800,993",
       "volume": "11155",
       "status": "상승190"
     },
@@ -1537,7 +1537,7 @@
       "code": "004020",
       "price": "32850",
       "change_amt": "+1.39%",
-      "change_pct": "843,548",
+      "change_pct": "843,558",
       "volume": "32850",
       "status": "상승450"
     },
@@ -1564,7 +1564,7 @@
       "code": "005950",
       "price": "11880",
       "change_amt": "+1.37%",
-      "change_pct": "399,312",
+      "change_pct": "399,640",
       "volume": "11880",
       "status": "상승160"
     },
@@ -1573,7 +1573,7 @@
       "code": "0197W0",
       "price": "9345",
       "change_amt": "+1.36%",
-      "change_pct": "612,733",
+      "change_pct": "612,833",
       "volume": "9345",
       "status": "상승125"
     },
@@ -1744,7 +1744,7 @@
       "code": "003280",
       "price": "1760",
       "change_amt": "+1.21%",
-      "change_pct": "3,784,734",
+      "change_pct": "3,792,073",
       "volume": "1759",
       "status": "상승21"
     },
@@ -1753,7 +1753,7 @@
       "code": "012800",
       "price": "1183",
       "change_amt": "+1.20%",
-      "change_pct": "582,415",
+      "change_pct": "583,213",
       "volume": "1183",
       "status": "상승14"
     },
@@ -1897,7 +1897,7 @@
       "code": "001360",
       "price": "1339",
       "change_amt": "+1.13%",
-      "change_pct": "331,853",
+      "change_pct": "334,303",
       "volume": "1333",
       "status": "상승15"
     },
@@ -2032,7 +2032,7 @@
       "code": "062040",
       "price": "201000",
       "change_amt": "+1.06%",
-      "change_pct": "367,958",
+      "change_pct": "367,962",
       "volume": "201000",
       "status": "상승2,100"
     },
@@ -2068,7 +2068,7 @@
       "code": "006660",
       "price": "12770",
       "change_amt": "+1.03%",
-      "change_pct": "491,994",
+      "change_pct": "492,284",
       "volume": "12770",
       "status": "상승130"
     },
@@ -2077,7 +2077,7 @@
       "code": "0233N0",
       "price": "10900",
       "change_amt": "+1.02%",
-      "change_pct": "565,578",
+      "change_pct": "565,581",
       "volume": "10865",
       "status": "상승110"
     },
@@ -2095,7 +2095,7 @@
       "code": "006800",
       "price": "35050",
       "change_amt": "+1.01%",
-      "change_pct": "1,242,319",
+      "change_pct": "1,242,360",
       "volume": "35050",
       "status": "상승350"
     },
@@ -2176,7 +2176,7 @@
       "code": "0173Y0",
       "price": "10360",
       "change_amt": "+0.97%",
-      "change_pct": "855,818",
+      "change_pct": "855,926",
       "volume": "10350",
       "status": "상승100"
     },
@@ -2464,7 +2464,7 @@
       "code": "000230",
       "price": "6200",
       "change_amt": "+0.81%",
-      "change_pct": "11,581",
+      "change_pct": "11,661",
       "volume": "6180",
       "status": "상승50"
     },
@@ -2545,7 +2545,7 @@
       "code": "483320",
       "price": "24430",
       "change_amt": "+0.78%",
-      "change_pct": "1,642,227",
+      "change_pct": "1,642,351",
       "volume": "24430",
       "status": "상승190"
     },
@@ -2563,7 +2563,7 @@
       "code": "375500",
       "price": "78600",
       "change_amt": "+0.77%",
-      "change_pct": "736,113",
+      "change_pct": "736,123",
       "volume": "78600",
       "status": "상승600"
     },
@@ -2716,7 +2716,7 @@
       "code": "0182S0",
       "price": "12655",
       "change_amt": "+0.72%",
-      "change_pct": "349,938",
+      "change_pct": "349,969",
       "volume": "12655",
       "status": "상승90"
     },
@@ -2806,7 +2806,7 @@
       "code": "488080",
       "price": "35980",
       "change_amt": "+0.69%",
-      "change_pct": "8,844,461",
+      "change_pct": "8,844,789",
       "volume": "35975",
       "status": "상승245"
     },
@@ -2815,7 +2815,7 @@
       "code": "580088",
       "price": "23215",
       "change_amt": "+0.69%",
-      "change_pct": "15,974",
+      "change_pct": "15,981",
       "volume": "23180",
       "status": "상승160"
     },
@@ -2869,7 +2869,7 @@
       "code": "381180",
       "price": "41480",
       "change_amt": "+0.66%",
-      "change_pct": "1,668,030",
+      "change_pct": "1,668,031",
       "volume": "41475",
       "status": "상승270"
     },
@@ -2923,7 +2923,7 @@
       "code": "009290",
       "price": "6320",
       "change_amt": "+0.64%",
-      "change_pct": "100,624",
+      "change_pct": "100,713",
       "volume": "6300",
       "status": "상승40"
     },
@@ -2968,7 +2968,7 @@
       "code": "004870",
       "price": "1137",
       "change_amt": "+0.62%",
-      "change_pct": "56,451",
+      "change_pct": "56,651",
       "volume": "1131",
       "status": "상승7"
     },
@@ -2977,7 +2977,7 @@
       "code": "0137V0",
       "price": "11320",
       "change_amt": "+0.62%",
-      "change_pct": "55,591",
+      "change_pct": "55,594",
       "volume": "11300",
       "status": "상승70"
     },
@@ -3049,7 +3049,7 @@
       "code": "128820",
       "price": "4185",
       "change_amt": "+0.60%",
-      "change_pct": "102,389",
+      "change_pct": "102,391",
       "volume": "4185",
       "status": "상승25"
     },
@@ -3211,7 +3211,7 @@
       "code": "093370",
       "price": "12970",
       "change_amt": "+0.54%",
-      "change_pct": "3,455,257",
+      "change_pct": "3,455,644",
       "volume": "12960",
       "status": "상승70"
     },
@@ -3292,7 +3292,7 @@
       "code": "241590",
       "price": "2890",
       "change_amt": "+0.52%",
-      "change_pct": "25,336",
+      "change_pct": "25,367",
       "volume": "2885",
       "status": "상승15"
     },
@@ -3310,7 +3310,7 @@
       "code": "487230",
       "price": "19500",
       "change_amt": "+0.52%",
-      "change_pct": "1,402,353",
+      "change_pct": "1,402,422",
       "volume": "19495",
       "status": "상승100"
     },
@@ -3346,7 +3346,7 @@
       "code": "114800",
       "price": "994",
       "change_amt": "+0.51%",
-      "change_pct": "861,477,250",
+      "change_pct": "861,620,500",
       "volume": "993",
       "status": "상승5"
     },
@@ -3418,7 +3418,7 @@
       "code": "034830",
       "price": "1200",
       "change_amt": "+0.50%",
-      "change_pct": "240,346",
+      "change_pct": "240,349",
       "volume": "1196",
       "status": "상승6"
     },
@@ -3553,7 +3553,7 @@
       "code": "095570",
       "price": "4190",
       "change_amt": "+0.48%",
-      "change_pct": "51,937",
+      "change_pct": "51,942",
       "volume": "4185",
       "status": "상승20"
     },
@@ -3562,7 +3562,7 @@
       "code": "096760",
       "price": "4200",
       "change_amt": "+0.48%",
-      "change_pct": "126,921",
+      "change_pct": "126,961",
       "volume": "4200",
       "status": "상승20"
     },
@@ -3598,7 +3598,7 @@
       "code": "0015B0",
       "price": "18120",
       "change_amt": "+0.47%",
-      "change_pct": "555,324",
+      "change_pct": "555,349",
       "volume": "18115",
       "status": "상승85"
     },
@@ -3634,7 +3634,7 @@
       "code": "446770",
       "price": "77525",
       "change_amt": "+0.47%",
-      "change_pct": "129,536",
+      "change_pct": "133,370",
       "volume": "77525",
       "status": "상승365"
     },
@@ -3697,7 +3697,7 @@
       "code": "267290",
       "price": "22200",
       "change_amt": "+0.45%",
-      "change_pct": "6,566",
+      "change_pct": "6,567",
       "volume": "22000",
       "status": "상승100"
     },
@@ -3724,7 +3724,7 @@
       "code": "003470",
       "price": "4720",
       "change_amt": "+0.43%",
-      "change_pct": "283,804",
+      "change_pct": "283,822",
       "volume": "4715",
       "status": "상승20"
     },
@@ -3751,7 +3751,7 @@
       "code": "0142D0",
       "price": "10585",
       "change_amt": "+0.43%",
-      "change_pct": "213,758",
+      "change_pct": "213,869",
       "volume": "10585",
       "status": "상승45"
     },
@@ -3778,7 +3778,7 @@
       "code": "396500",
       "price": "37230",
       "change_amt": "+0.43%",
-      "change_pct": "13,110,988",
+      "change_pct": "13,111,357",
       "volume": "37225",
       "status": "상승160"
     },
@@ -3949,7 +3949,7 @@
       "code": "471990",
       "price": "25165",
       "change_amt": "+0.40%",
-      "change_pct": "1,321,493",
+      "change_pct": "1,321,829",
       "volume": "25165",
       "status": "상승100"
     },
@@ -3967,7 +3967,7 @@
       "code": "009190",
       "price": "1299",
       "change_amt": "+0.39%",
-      "change_pct": "265,465",
+      "change_pct": "265,766",
       "volume": "1298",
       "status": "상승5"
     },
@@ -3985,7 +3985,7 @@
       "code": "337140",
       "price": "37005",
       "change_amt": "+0.39%",
-      "change_pct": "16,393",
+      "change_pct": "16,394",
       "volume": "36800",
       "status": "상승145"
     },
@@ -3994,7 +3994,7 @@
       "code": "426030",
       "price": "45400",
       "change_amt": "+0.39%",
-      "change_pct": "641,443",
+      "change_pct": "641,478",
       "volume": "45400",
       "status": "상승175"
     },
@@ -4012,7 +4012,7 @@
       "code": "485690",
       "price": "21625",
       "change_amt": "+0.39%",
-      "change_pct": "22,359",
+      "change_pct": "22,360",
       "volume": "21560",
       "status": "상승85"
     },
@@ -4057,7 +4057,7 @@
       "code": "0007G0",
       "price": "13675",
       "change_amt": "+0.37%",
-      "change_pct": "8,164",
+      "change_pct": "8,165",
       "volume": "13670",
       "status": "상승50"
     },
@@ -4174,7 +4174,7 @@
       "code": "001440",
       "price": "28750",
       "change_amt": "+0.35%",
-      "change_pct": "1,656,559",
+      "change_pct": "1,656,690",
       "volume": "28700",
       "status": "상승100"
     },
@@ -4255,7 +4255,7 @@
       "code": "028670",
       "price": "6080",
       "change_amt": "+0.33%",
-      "change_pct": "3,403,232",
+      "change_pct": "3,403,280",
       "volume": "6080",
       "status": "상승20"
     },
@@ -4336,7 +4336,7 @@
       "code": "071090",
       "price": "3165",
       "change_amt": "+0.32%",
-      "change_pct": "545,075",
+      "change_pct": "545,076",
       "volume": "3160",
       "status": "상승10"
     },
@@ -4372,7 +4372,7 @@
       "code": "456610",
       "price": "58440",
       "change_amt": "+0.32%",
-      "change_pct": "23,988",
+      "change_pct": "23,990",
       "volume": "58440",
       "status": "상승185"
     },
@@ -4642,7 +4642,7 @@
       "code": "004090",
       "price": "11530",
       "change_amt": "+0.26%",
-      "change_pct": "203,840",
+      "change_pct": "204,547",
       "volume": "11520",
       "status": "상승30"
     },
@@ -4678,7 +4678,7 @@
       "code": "091160",
       "price": "131535",
       "change_amt": "+0.26%",
-      "change_pct": "1,741,184",
+      "change_pct": "1,741,409",
       "volume": "131525",
       "status": "상승335"
     },
@@ -4723,7 +4723,7 @@
       "code": "329200",
       "price": "4050",
       "change_amt": "+0.25%",
-      "change_pct": "2,115,208",
+      "change_pct": "2,115,213",
       "volume": "4045",
       "status": "상승10"
     },
@@ -4741,7 +4741,7 @@
       "code": "00088K",
       "price": "41850",
       "change_amt": "+0.24%",
-      "change_pct": "33,822",
+      "change_pct": "33,823",
       "volume": "41800",
       "status": "상승100"
     },
@@ -4768,7 +4768,7 @@
       "code": "0233J0",
       "price": "10485",
       "change_amt": "+0.24%",
-      "change_pct": "410,566",
+      "change_pct": "410,571",
       "volume": "10485",
       "status": "상승25"
     },
@@ -4885,7 +4885,7 @@
       "code": "0162Z0",
       "price": "13680",
       "change_amt": "+0.22%",
-      "change_pct": "8,664,315",
+      "change_pct": "8,665,365",
       "volume": "13680",
       "status": "상승30"
     },
@@ -4957,7 +4957,7 @@
       "code": "474800",
       "price": "15735",
       "change_amt": "+0.22%",
-      "change_pct": "70,483",
+      "change_pct": "70,606",
       "volume": "15735",
       "status": "상승35"
     },
@@ -5065,7 +5065,7 @@
       "code": "0183J0",
       "price": "7365",
       "change_amt": "+0.20%",
-      "change_pct": "1,489,694",
+      "change_pct": "1,489,696",
       "volume": "7365",
       "status": "상승15"
     },
@@ -5074,7 +5074,7 @@
       "code": "157500",
       "price": "12440",
       "change_amt": "+0.20%",
-      "change_pct": "360,834",
+      "change_pct": "360,836",
       "volume": "12440",
       "status": "상승25"
     },
@@ -5137,7 +5137,7 @@
       "code": "001465",
       "price": "27000",
       "change_amt": "+0.19%",
-      "change_pct": "2,806",
+      "change_pct": "2,807",
       "volume": "26500",
       "status": "상승50"
     },
@@ -5434,7 +5434,7 @@
       "code": "006370",
       "price": "3445",
       "change_amt": "+0.15%",
-      "change_pct": "96,574",
+      "change_pct": "96,579",
       "volume": "3440",
       "status": "상승5"
     },
@@ -5470,7 +5470,7 @@
       "code": "006360",
       "price": "35250",
       "change_amt": "+0.14%",
-      "change_pct": "2,250,584",
+      "change_pct": "2,250,832",
       "volume": "35200",
       "status": "상승50"
     },
@@ -5587,7 +5587,7 @@
       "code": "0167B0",
       "price": "11960",
       "change_amt": "+0.13%",
-      "change_pct": "1,461,207",
+      "change_pct": "1,461,232",
       "volume": "11955",
       "status": "상승15"
     },
@@ -5596,7 +5596,7 @@
       "code": "0177R0",
       "price": "11565",
       "change_amt": "+0.13%",
-      "change_pct": "2,388,862",
+      "change_pct": "2,396,790",
       "volume": "11560",
       "status": "상승15"
     },
@@ -5731,7 +5731,7 @@
       "code": "114090",
       "price": "9430",
       "change_amt": "+0.11%",
-      "change_pct": "44,318",
+      "change_pct": "44,338",
       "volume": "9430",
       "status": "상승10"
     },
@@ -5866,7 +5866,7 @@
       "code": "498400",
       "price": "20875",
       "change_amt": "+0.10%",
-      "change_pct": "7,841,657",
+      "change_pct": "7,841,717",
       "volume": "20875",
       "status": "상승20"
     },
@@ -5884,7 +5884,7 @@
       "code": "368590",
       "price": "29370",
       "change_amt": "+0.09%",
-      "change_pct": "346,587",
+      "change_pct": "346,590",
       "volume": "29365",
       "status": "상승25"
     },
@@ -5947,7 +5947,7 @@
       "code": "251350",
       "price": "38315",
       "change_amt": "+0.08%",
-      "change_pct": "16,752",
+      "change_pct": "16,757",
       "volume": "38310",
       "status": "상승30"
     },
@@ -6100,7 +6100,7 @@
       "code": "471040",
       "price": "27865",
       "change_amt": "+0.07%",
-      "change_pct": "36,056",
+      "change_pct": "36,062",
       "volume": "27850",
       "status": "상승20"
     },
@@ -6154,7 +6154,7 @@
       "code": "133690",
       "price": "176020",
       "change_amt": "+0.06%",
-      "change_pct": "5,543,992",
+      "change_pct": "5,544,019",
       "volume": "176015",
       "status": "상승100"
     },
@@ -6172,7 +6172,7 @@
       "code": "379810",
       "price": "26315",
       "change_amt": "+0.06%",
-      "change_pct": "21,851,298",
+      "change_pct": "21,851,487",
       "volume": "26315",
       "status": "상승15"
     },
@@ -6181,7 +6181,7 @@
       "code": "428560",
       "price": "15880",
       "change_amt": "+0.06%",
-      "change_pct": "1,179",
+      "change_pct": "1,181",
       "volume": "15875",
       "status": "상승10"
     },
@@ -6253,7 +6253,7 @@
       "code": "367380",
       "price": "30250",
       "change_amt": "+0.05%",
-      "change_pct": "365,485",
+      "change_pct": "365,491",
       "volume": "30250",
       "status": "상승15"
     },
@@ -6424,7 +6424,7 @@
       "code": "379780",
       "price": "22450",
       "change_amt": "+0.04%",
-      "change_pct": "177,431",
+      "change_pct": "177,435",
       "volume": "22445",
       "status": "상승10"
     },
@@ -6433,7 +6433,7 @@
       "code": "379800",
       "price": "23330",
       "change_amt": "+0.04%",
-      "change_pct": "21,529,849",
+      "change_pct": "21,530,142",
       "volume": "23330",
       "status": "상승10"
     },
@@ -6469,7 +6469,7 @@
       "code": "475720",
       "price": "12695",
       "change_amt": "+0.04%",
-      "change_pct": "752,624",
+      "change_pct": "752,836",
       "volume": "12690",
       "status": "상승5"
     },
@@ -6658,7 +6658,7 @@
       "code": "360200",
       "price": "25940",
       "change_amt": "+0.02%",
-      "change_pct": "1,227,549",
+      "change_pct": "1,227,559",
       "volume": "25940",
       "status": "상승5"
     },
@@ -6712,7 +6712,7 @@
       "code": "494310",
       "price": "81905",
       "change_amt": "+0.02%",
-      "change_pct": "3,988,699",
+      "change_pct": "3,988,700",
       "volume": "81900",
       "status": "상승15"
     },
@@ -6865,7 +6865,7 @@
       "code": "357870",
       "price": "58025",
       "change_amt": "+0.01%",
-      "change_pct": "220,124",
+      "change_pct": "220,134",
       "volume": "58020",
       "status": "상승5"
     },
@@ -6946,7 +6946,7 @@
       "code": "459580",
       "price": "1074120",
       "change_amt": "+0.01%",
-      "change_pct": "740,404",
+      "change_pct": "740,405",
       "volume": "1074115",
       "status": "상승90"
     },
@@ -7018,7 +7018,7 @@
       "code": "488770",
       "price": "105460",
       "change_amt": "+0.01%",
-      "change_pct": "528,542",
+      "change_pct": "528,614",
       "volume": "105455",
       "status": "상승10"
     },
@@ -7045,7 +7045,7 @@
       "code": "499660",
       "price": "1001050",
       "change_amt": "+0.01%",
-      "change_pct": "20,103",
+      "change_pct": "20,104",
       "volume": "1001045",
       "status": "상승95"
     },
@@ -7110,7 +7110,7 @@
       "code": "069540",
       "price": "3640",
       "change_amt": "+30.00%",
-      "change_pct": "41,802,519",
+      "change_pct": "41,803,412",
       "volume": "3640",
       "status": "상한가840"
     },
@@ -7119,7 +7119,7 @@
       "code": "950250",
       "price": "3015",
       "change_amt": "+29.96%",
-      "change_pct": "3,073,470",
+      "change_pct": "3,073,584",
       "volume": "3015",
       "status": "상한가695"
     },
@@ -7146,7 +7146,7 @@
       "code": "046120",
       "price": "6050",
       "change_amt": "+29.83%",
-      "change_pct": "7,810,795",
+      "change_pct": "7,811,295",
       "volume": "6050",
       "status": "상한가1,390"
     },
@@ -7155,7 +7155,7 @@
       "code": "189860",
       "price": "5750",
       "change_amt": "+29.80%",
-      "change_pct": "5,307,301",
+      "change_pct": "5,307,586",
       "volume": "5750",
       "status": "상한가1,320"
     },
@@ -7164,7 +7164,7 @@
       "code": "475040",
       "price": "3350",
       "change_amt": "+19.22%",
-      "change_pct": "10,721,136",
+      "change_pct": "10,721,733",
       "volume": "3340",
       "status": "상승540"
     },
@@ -7173,7 +7173,7 @@
       "code": "389030",
       "price": "2020",
       "change_amt": "+16.76%",
-      "change_pct": "1,492,402",
+      "change_pct": "1,492,421",
       "volume": "2020",
       "status": "상승290"
     },
@@ -7182,7 +7182,7 @@
       "code": "162300",
       "price": "2470",
       "change_amt": "+16.24%",
-      "change_pct": "26,594,789",
+      "change_pct": "26,598,597",
       "volume": "2470",
       "status": "상승345"
     },
@@ -7191,7 +7191,7 @@
       "code": "261780",
       "price": "3350",
       "change_amt": "+15.52%",
-      "change_pct": "2,701,969",
+      "change_pct": "2,702,069",
       "volume": "3345",
       "status": "상승450"
     },
@@ -7209,7 +7209,7 @@
       "code": "351320",
       "price": "5000",
       "change_amt": "+15.34%",
-      "change_pct": "1,565,329",
+      "change_pct": "1,565,645",
       "volume": "4995",
       "status": "상승665"
     },
@@ -7218,7 +7218,7 @@
       "code": "002680",
       "price": "2875",
       "change_amt": "+14.77%",
-      "change_pct": "184,598",
+      "change_pct": "184,742",
       "volume": "2875",
       "status": "상승370"
     },
@@ -7227,7 +7227,7 @@
       "code": "079650",
       "price": "7680",
       "change_amt": "+14.46%",
-      "change_pct": "20,452,588",
+      "change_pct": "20,456,984",
       "volume": "7670",
       "status": "상승970"
     },
@@ -7236,7 +7236,7 @@
       "code": "317330",
       "price": "13570",
       "change_amt": "+13.27%",
-      "change_pct": "620,058",
+      "change_pct": "620,066",
       "volume": "13560",
       "status": "상승1,590"
     },
@@ -7245,7 +7245,7 @@
       "code": "0011T0",
       "price": "5310",
       "change_amt": "+13.10%",
-      "change_pct": "1,151,452",
+      "change_pct": "1,151,626",
       "volume": "5300",
       "status": "상승615"
     },
@@ -7254,7 +7254,7 @@
       "code": "302430",
       "price": "7770",
       "change_amt": "+13.10%",
-      "change_pct": "2,262,928",
+      "change_pct": "2,262,944",
       "volume": "7770",
       "status": "상승900"
     },
@@ -7263,7 +7263,7 @@
       "code": "019990",
       "price": "5500",
       "change_amt": "+13.05%",
-      "change_pct": "1,230,171",
+      "change_pct": "1,230,172",
       "volume": "5500",
       "status": "상승635"
     },
@@ -7272,7 +7272,7 @@
       "code": "0015N0",
       "price": "10410",
       "change_amt": "+12.91%",
-      "change_pct": "2,674,268",
+      "change_pct": "2,674,319",
       "volume": "10410",
       "status": "상승1,190"
     },
@@ -7299,7 +7299,7 @@
       "code": "418620",
       "price": "626",
       "change_amt": "+11.19%",
-      "change_pct": "5,925,246",
+      "change_pct": "5,933,629",
       "volume": "626",
       "status": "상승63"
     },
@@ -7308,7 +7308,7 @@
       "code": "368600",
       "price": "1105",
       "change_amt": "+11.17%",
-      "change_pct": "11,859,837",
+      "change_pct": "11,860,316",
       "volume": "1105",
       "status": "상승111"
     },
@@ -7317,7 +7317,7 @@
       "code": "490470",
       "price": "15930",
       "change_amt": "+10.78%",
-      "change_pct": "3,993,725",
+      "change_pct": "3,994,207",
       "volume": "15930",
       "status": "상승1,550"
     },
@@ -7326,7 +7326,7 @@
       "code": "452190",
       "price": "4500",
       "change_amt": "+10.70%",
-      "change_pct": "11,158,531",
+      "change_pct": "11,158,602",
       "volume": "4500",
       "status": "상승435"
     },
@@ -7344,7 +7344,7 @@
       "code": "290740",
       "price": "12350",
       "change_amt": "+9.00%",
-      "change_pct": "249,633",
+      "change_pct": "249,634",
       "volume": "12350",
       "status": "상승1,020"
     },
@@ -7353,7 +7353,7 @@
       "code": "067290",
       "price": "3890",
       "change_amt": "+8.66%",
-      "change_pct": "73,242,227",
+      "change_pct": "73,244,809",
       "volume": "3885",
       "status": "상승310"
     },
@@ -7371,7 +7371,7 @@
       "code": "160190",
       "price": "23650",
       "change_amt": "+8.49%",
-      "change_pct": "552,490",
+      "change_pct": "552,653",
       "volume": "23600",
       "status": "상승1,850"
     },
@@ -7398,7 +7398,7 @@
       "code": "212560",
       "price": "12850",
       "change_amt": "+8.16%",
-      "change_pct": "1,901,960",
+      "change_pct": "1,902,460",
       "volume": "12840",
       "status": "상승970"
     },
@@ -7407,7 +7407,7 @@
       "code": "032820",
       "price": "11810",
       "change_amt": "+8.15%",
-      "change_pct": "12,880,237",
+      "change_pct": "12,881,753",
       "volume": "11810",
       "status": "상승890"
     },
@@ -7434,7 +7434,7 @@
       "code": "365660",
       "price": "5010",
       "change_amt": "+7.86%",
-      "change_pct": "5,500,916",
+      "change_pct": "5,500,932",
       "volume": "5010",
       "status": "상승365"
     },
@@ -7443,7 +7443,7 @@
       "code": "417030",
       "price": "33450",
       "change_amt": "+7.73%",
-      "change_pct": "1,382,596",
+      "change_pct": "1,382,721",
       "volume": "33400",
       "status": "상승2,400"
     },
@@ -7452,7 +7452,7 @@
       "code": "257370",
       "price": "2100",
       "change_amt": "+7.69%",
-      "change_pct": "32,707",
+      "change_pct": "32,710",
       "volume": "1965",
       "status": "상승150"
     },
@@ -7461,7 +7461,7 @@
       "code": "051980",
       "price": "1083",
       "change_amt": "+7.65%",
-      "change_pct": "5,324,544",
+      "change_pct": "5,328,312",
       "volume": "1083",
       "status": "상승77"
     },
@@ -7479,7 +7479,7 @@
       "code": "049080",
       "price": "8330",
       "change_amt": "+6.93%",
-      "change_pct": "2,221,413",
+      "change_pct": "2,221,922",
       "volume": "8300",
       "status": "상승540"
     },
@@ -7488,7 +7488,7 @@
       "code": "457550",
       "price": "14360",
       "change_amt": "+6.85%",
-      "change_pct": "389,047",
+      "change_pct": "389,052",
       "volume": "14350",
       "status": "상승920"
     },
@@ -7497,7 +7497,7 @@
       "code": "289080",
       "price": "2510",
       "change_amt": "+6.81%",
-      "change_pct": "11,691,748",
+      "change_pct": "11,691,850",
       "volume": "2505",
       "status": "상승160"
     },
@@ -7515,7 +7515,7 @@
       "code": "024060",
       "price": "11990",
       "change_amt": "+6.77%",
-      "change_pct": "4,746,841",
+      "change_pct": "4,780,218",
       "volume": "11980",
       "status": "상승760"
     },
@@ -7533,7 +7533,7 @@
       "code": "226590",
       "price": "12860",
       "change_amt": "+6.19%",
-      "change_pct": "111,640",
+      "change_pct": "111,692",
       "volume": "12860",
       "status": "상승750"
     },
@@ -7542,7 +7542,7 @@
       "code": "044490",
       "price": "34850",
       "change_amt": "+6.09%",
-      "change_pct": "580,329",
+      "change_pct": "580,339",
       "volume": "34800",
       "status": "상승2,000"
     },
@@ -7551,7 +7551,7 @@
       "code": "065170",
       "price": "2300",
       "change_amt": "+5.99%",
-      "change_pct": "1,227,305",
+      "change_pct": "1,227,306",
       "volume": "2295",
       "status": "상승130"
     },
@@ -7560,7 +7560,7 @@
       "code": "347700",
       "price": "20200",
       "change_amt": "+5.98%",
-      "change_pct": "1,262,087",
+      "change_pct": "1,262,143",
       "volume": "20150",
       "status": "상승1,140"
     },
@@ -7587,7 +7587,7 @@
       "code": "265740",
       "price": "6890",
       "change_amt": "+5.84%",
-      "change_pct": "521,291",
+      "change_pct": "523,389",
       "volume": "6890",
       "status": "상승380"
     },
@@ -7605,7 +7605,7 @@
       "code": "064850",
       "price": "17720",
       "change_amt": "+5.79%",
-      "change_pct": "59,479",
+      "change_pct": "59,480",
       "volume": "17720",
       "status": "상승970"
     },
@@ -7650,7 +7650,7 @@
       "code": "062970",
       "price": "2020",
       "change_amt": "+5.54%",
-      "change_pct": "3,774,972",
+      "change_pct": "3,775,780",
       "volume": "2020",
       "status": "상승106"
     },
@@ -7659,7 +7659,7 @@
       "code": "388050",
       "price": "11040",
       "change_amt": "+5.54%",
-      "change_pct": "11,660,761",
+      "change_pct": "11,661,975",
       "volume": "11040",
       "status": "상승580"
     },
@@ -7713,7 +7713,7 @@
       "code": "021320",
       "price": "5930",
       "change_amt": "+5.14%",
-      "change_pct": "74,377",
+      "change_pct": "74,379",
       "volume": "5900",
       "status": "상승290"
     },
@@ -7722,7 +7722,7 @@
       "code": "029480",
       "price": "1549",
       "change_amt": "+5.02%",
-      "change_pct": "216,683",
+      "change_pct": "216,702",
       "volume": "1549",
       "status": "상승74"
     },
@@ -7731,7 +7731,7 @@
       "code": "183300",
       "price": "27650",
       "change_amt": "+4.93%",
-      "change_pct": "904,457",
+      "change_pct": "904,458",
       "volume": "27650",
       "status": "상승1,300"
     },
@@ -7758,7 +7758,7 @@
       "code": "067170",
       "price": "2650",
       "change_amt": "+4.74%",
-      "change_pct": "182,640",
+      "change_pct": "182,671",
       "volume": "2650",
       "status": "상승120"
     },
@@ -7767,7 +7767,7 @@
       "code": "173130",
       "price": "6320",
       "change_amt": "+4.64%",
-      "change_pct": "134,565",
+      "change_pct": "134,575",
       "volume": "6320",
       "status": "상승280"
     },
@@ -7776,7 +7776,7 @@
       "code": "039010",
       "price": "8280",
       "change_amt": "+4.55%",
-      "change_pct": "93,806",
+      "change_pct": "93,807",
       "volume": "8270",
       "status": "상승360"
     },
@@ -7812,7 +7812,7 @@
       "code": "140410",
       "price": "69000",
       "change_amt": "+4.23%",
-      "change_pct": "93,450",
+      "change_pct": "93,495",
       "volume": "69000",
       "status": "상승2,800"
     },
@@ -7821,7 +7821,7 @@
       "code": "046970",
       "price": "5060",
       "change_amt": "+4.22%",
-      "change_pct": "1,447,825",
+      "change_pct": "1,447,925",
       "volume": "5050",
       "status": "상승205"
     },
@@ -7839,7 +7839,7 @@
       "code": "396470",
       "price": "6630",
       "change_amt": "+4.08%",
-      "change_pct": "571,672",
+      "change_pct": "571,867",
       "volume": "6630",
       "status": "상승260"
     },
@@ -7857,7 +7857,7 @@
       "code": "078150",
       "price": "1995",
       "change_amt": "+3.96%",
-      "change_pct": "6,744,377",
+      "change_pct": "6,745,424",
       "volume": "1995",
       "status": "상승76"
     },
@@ -7866,7 +7866,7 @@
       "code": "036930",
       "price": "194600",
       "change_amt": "+3.95%",
-      "change_pct": "2,525,114",
+      "change_pct": "2,525,657",
       "volume": "194500",
       "status": "상승7,400"
     },
@@ -7893,7 +7893,7 @@
       "code": "264850",
       "price": "5840",
       "change_amt": "+3.91%",
-      "change_pct": "3,139,421",
+      "change_pct": "3,139,531",
       "volume": "5840",
       "status": "상승220"
     },
@@ -7902,7 +7902,7 @@
       "code": "053260",
       "price": "6660",
       "change_amt": "+3.90%",
-      "change_pct": "7,800,419",
+      "change_pct": "7,800,579",
       "volume": "6650",
       "status": "상승250"
     },
@@ -7956,7 +7956,7 @@
       "code": "246960",
       "price": "2325",
       "change_amt": "+3.79%",
-      "change_pct": "58,637",
+      "change_pct": "58,787",
       "volume": "2325",
       "status": "상승85"
     },
@@ -7983,7 +7983,7 @@
       "code": "464490",
       "price": "5100",
       "change_amt": "+3.76%",
-      "change_pct": "127,561",
+      "change_pct": "127,566",
       "volume": "5090",
       "status": "상승185"
     },
@@ -8001,7 +8001,7 @@
       "code": "060310",
       "price": "1171",
       "change_amt": "+3.63%",
-      "change_pct": "83,539",
+      "change_pct": "83,639",
       "volume": "1154",
       "status": "상승41"
     },
@@ -8037,7 +8037,7 @@
       "code": "185490",
       "price": "2090",
       "change_amt": "+3.47%",
-      "change_pct": "198,886",
+      "change_pct": "198,895",
       "volume": "2080",
       "status": "상승70"
     },
@@ -8091,7 +8091,7 @@
       "code": "072950",
       "price": "8640",
       "change_amt": "+3.35%",
-      "change_pct": "1,875,141",
+      "change_pct": "1,875,492",
       "volume": "8640",
       "status": "상승280"
     },
@@ -8109,7 +8109,7 @@
       "code": "246690",
       "price": "2205",
       "change_amt": "+3.28%",
-      "change_pct": "136,188",
+      "change_pct": "136,189",
       "volume": "2200",
       "status": "상승70"
     },
@@ -8127,7 +8127,7 @@
       "code": "452450",
       "price": "4320",
       "change_amt": "+3.23%",
-      "change_pct": "359,567",
+      "change_pct": "359,570",
       "volume": "4310",
       "status": "상승135"
     },
@@ -8136,7 +8136,7 @@
       "code": "009730",
       "price": "2100",
       "change_amt": "+3.19%",
-      "change_pct": "31,474",
+      "change_pct": "31,475",
       "volume": "2095",
       "status": "상승65"
     },
@@ -8145,7 +8145,7 @@
       "code": "100790",
       "price": "15680",
       "change_amt": "+3.16%",
-      "change_pct": "1,078,706",
+      "change_pct": "1,078,731",
       "volume": "15670",
       "status": "상승480"
     },
@@ -8163,7 +8163,7 @@
       "code": "446540",
       "price": "7310",
       "change_amt": "+3.10%",
-      "change_pct": "186,442",
+      "change_pct": "186,492",
       "volume": "7300",
       "status": "상승220"
     },
@@ -8208,7 +8208,7 @@
       "code": "109610",
       "price": "1999",
       "change_amt": "+3.04%",
-      "change_pct": "278,671",
+      "change_pct": "278,675",
       "volume": "1999",
       "status": "상승59"
     },
@@ -8217,7 +8217,7 @@
       "code": "032790",
       "price": "1441",
       "change_amt": "+3.00%",
-      "change_pct": "367,183",
+      "change_pct": "367,599",
       "volume": "1435",
       "status": "상승42"
     },
@@ -8235,7 +8235,7 @@
       "code": "321370",
       "price": "1149",
       "change_amt": "+2.96%",
-      "change_pct": "2,001,425",
+      "change_pct": "2,001,556",
       "volume": "1146",
       "status": "상승33"
     },
@@ -8244,7 +8244,7 @@
       "code": "483350",
       "price": "3135",
       "change_amt": "+2.96%",
-      "change_pct": "2,394,614",
+      "change_pct": "2,394,689",
       "volume": "3135",
       "status": "상승90"
     },
@@ -8253,7 +8253,7 @@
       "code": "042370",
       "price": "8420",
       "change_amt": "+2.93%",
-      "change_pct": "336,096",
+      "change_pct": "336,098",
       "volume": "8420",
       "status": "상승240"
     },
@@ -8271,7 +8271,7 @@
       "code": "310870",
       "price": "1585",
       "change_amt": "+2.92%",
-      "change_pct": "243,202",
+      "change_pct": "243,218",
       "volume": "1585",
       "status": "상승45"
     },
@@ -8298,7 +8298,7 @@
       "code": "094820",
       "price": "12220",
       "change_amt": "+2.86%",
-      "change_pct": "259,071",
+      "change_pct": "259,072",
       "volume": "12170",
       "status": "상승340"
     },
@@ -8316,7 +8316,7 @@
       "code": "043260",
       "price": "16320",
       "change_amt": "+2.84%",
-      "change_pct": "2,183,363",
+      "change_pct": "2,184,895",
       "volume": "16310",
       "status": "상승450"
     },
@@ -8388,7 +8388,7 @@
       "code": "204620",
       "price": "5440",
       "change_amt": "+2.64%",
-      "change_pct": "803,088",
+      "change_pct": "803,089",
       "volume": "5440",
       "status": "상승140"
     },
@@ -8397,7 +8397,7 @@
       "code": "462350",
       "price": "5940",
       "change_amt": "+2.59%",
-      "change_pct": "211,417",
+      "change_pct": "211,550",
       "volume": "5940",
       "status": "상승150"
     },
@@ -8406,7 +8406,7 @@
       "code": "330350",
       "price": "7750",
       "change_amt": "+2.51%",
-      "change_pct": "1,214,512",
+      "change_pct": "1,215,448",
       "volume": "7710",
       "status": "상승190"
     },
@@ -8451,7 +8451,7 @@
       "code": "038870",
       "price": "1860",
       "change_amt": "+2.42%",
-      "change_pct": "6,558",
+      "change_pct": "6,559",
       "volume": "1835",
       "status": "상승44"
     },
@@ -8514,7 +8514,7 @@
       "code": "356680",
       "price": "11600",
       "change_amt": "+2.38%",
-      "change_pct": "588,092",
+      "change_pct": "588,407",
       "volume": "11600",
       "status": "상승270"
     },
@@ -8568,7 +8568,7 @@
       "code": "255220",
       "price": "1228",
       "change_amt": "+2.25%",
-      "change_pct": "1,474,455",
+      "change_pct": "1,474,622",
       "volume": "1228",
       "status": "상승27"
     },
@@ -8586,7 +8586,7 @@
       "code": "327260",
       "price": "34500",
       "change_amt": "+2.22%",
-      "change_pct": "837,658",
+      "change_pct": "837,683",
       "volume": "34500",
       "status": "상승750"
     },
@@ -8640,7 +8640,7 @@
       "code": "290690",
       "price": "4295",
       "change_amt": "+2.14%",
-      "change_pct": "1,016,743",
+      "change_pct": "1,017,253",
       "volume": "4290",
       "status": "상승90"
     },
@@ -8685,7 +8685,7 @@
       "code": "260970",
       "price": "53200",
       "change_amt": "+2.11%",
-      "change_pct": "20,162",
+      "change_pct": "20,172",
       "volume": "53100",
       "status": "상승1,100"
     },
@@ -8784,7 +8784,7 @@
       "code": "109960",
       "price": "1903",
       "change_amt": "+1.93%",
-      "change_pct": "2,836",
+      "change_pct": "2,936",
       "volume": "1900",
       "status": "상승36"
     },
@@ -8793,7 +8793,7 @@
       "code": "058820",
       "price": "636",
       "change_amt": "+1.92%",
-      "change_pct": "1,299,522",
+      "change_pct": "1,299,532",
       "volume": "631",
       "status": "상승12"
     },
@@ -8820,7 +8820,7 @@
       "code": "027360",
       "price": "3210",
       "change_amt": "+1.90%",
-      "change_pct": "1,723,700",
+      "change_pct": "1,724,259",
       "volume": "3205",
       "status": "상승60"
     },
@@ -8838,7 +8838,7 @@
       "code": "459550",
       "price": "2705",
       "change_amt": "+1.88%",
-      "change_pct": "15,695,095",
+      "change_pct": "15,695,960",
       "volume": "2700",
       "status": "상승50"
     },
@@ -8847,7 +8847,7 @@
       "code": "086670",
       "price": "16930",
       "change_amt": "+1.87%",
-      "change_pct": "47,825",
+      "change_pct": "47,835",
       "volume": "16920",
       "status": "상승310"
     },
@@ -8973,7 +8973,7 @@
       "code": "010170",
       "price": "13700",
       "change_amt": "+1.71%",
-      "change_pct": "16,418,486",
+      "change_pct": "16,421,068",
       "volume": "13690",
       "status": "상승230"
     },
@@ -8982,7 +8982,7 @@
       "code": "453450",
       "price": "13110",
       "change_amt": "+1.71%",
-      "change_pct": "20,343",
+      "change_pct": "20,344",
       "volume": "13110",
       "status": "상승220"
     },
@@ -9099,7 +9099,7 @@
       "code": "048470",
       "price": "2850",
       "change_amt": "+1.60%",
-      "change_pct": "17,562",
+      "change_pct": "17,912",
       "volume": "2835",
       "status": "상승45"
     },
@@ -9108,7 +9108,7 @@
       "code": "064290",
       "price": "41250",
       "change_amt": "+1.60%",
-      "change_pct": "344,913",
+      "change_pct": "345,014",
       "volume": "41150",
       "status": "상승650"
     },
@@ -9135,7 +9135,7 @@
       "code": "440110",
       "price": "71000",
       "change_amt": "+1.57%",
-      "change_pct": "487,514",
+      "change_pct": "487,571",
       "volume": "70900",
       "status": "상승1,100"
     },
@@ -9180,7 +9180,7 @@
       "code": "215790",
       "price": "660",
       "change_amt": "+1.54%",
-      "change_pct": "4,668,114",
+      "change_pct": "4,668,194",
       "volume": "658",
       "status": "상승10"
     },
@@ -9189,7 +9189,7 @@
       "code": "017510",
       "price": "7370",
       "change_amt": "+1.52%",
-      "change_pct": "292,782",
+      "change_pct": "293,030",
       "volume": "7360",
       "status": "상승110"
     },
@@ -9234,7 +9234,7 @@
       "code": "323990",
       "price": "4465",
       "change_amt": "+1.48%",
-      "change_pct": "131,364",
+      "change_pct": "131,368",
       "volume": "4430",
       "status": "상승65"
     },
@@ -9315,7 +9315,7 @@
       "code": "475960",
       "price": "28600",
       "change_amt": "+1.42%",
-      "change_pct": "22,018",
+      "change_pct": "22,388",
       "volume": "28550",
       "status": "상승400"
     },
@@ -9342,7 +9342,7 @@
       "code": "493330",
       "price": "15190",
       "change_amt": "+1.40%",
-      "change_pct": "60,672",
+      "change_pct": "60,683",
       "volume": "15170",
       "status": "상승210"
     },
@@ -9360,7 +9360,7 @@
       "code": "025950",
       "price": "10370",
       "change_amt": "+1.37%",
-      "change_pct": "32,709",
+      "change_pct": "32,710",
       "volume": "10270",
       "status": "상승140"
     },
@@ -9414,7 +9414,7 @@
       "code": "076080",
       "price": "1140",
       "change_amt": "+1.33%",
-      "change_pct": "27,303",
+      "change_pct": "27,306",
       "volume": "1132",
       "status": "상승15"
     },
@@ -9423,7 +9423,7 @@
       "code": "024740",
       "price": "2305",
       "change_amt": "+1.32%",
-      "change_pct": "359,221",
+      "change_pct": "359,230",
       "volume": "2305",
       "status": "상승30"
     },
@@ -9441,7 +9441,7 @@
       "code": "032940",
       "price": "10020",
       "change_amt": "+1.31%",
-      "change_pct": "627,087",
+      "change_pct": "627,232",
       "volume": "10010",
       "status": "상승130"
     },
@@ -9486,7 +9486,7 @@
       "code": "065450",
       "price": "2805",
       "change_amt": "+1.26%",
-      "change_pct": "220,725",
+      "change_pct": "220,754",
       "volume": "2805",
       "status": "상승35"
     },
@@ -9576,7 +9576,7 @@
       "code": "300080",
       "price": "8850",
       "change_amt": "+1.14%",
-      "change_pct": "81,554",
+      "change_pct": "81,555",
       "volume": "8850",
       "status": "상승100"
     },
@@ -9837,7 +9837,7 @@
       "code": "000440",
       "price": "12280",
       "change_amt": "+0.90%",
-      "change_pct": "23,730",
+      "change_pct": "23,731",
       "volume": "12270",
       "status": "상승110"
     },
@@ -9846,7 +9846,7 @@
       "code": "030530",
       "price": "22550",
       "change_amt": "+0.89%",
-      "change_pct": "5,787,341",
+      "change_pct": "5,789,330",
       "volume": "22500",
       "status": "상승200"
     },
@@ -9855,7 +9855,7 @@
       "code": "204840",
       "price": "5780",
       "change_amt": "+0.87%",
-      "change_pct": "156,283",
+      "change_pct": "156,301",
       "volume": "5750",
       "status": "상승50"
     },
@@ -9909,7 +9909,7 @@
       "code": "348340",
       "price": "18230",
       "change_amt": "+0.83%",
-      "change_pct": "402,109",
+      "change_pct": "402,173",
       "volume": "18230",
       "status": "상승150"
     },
@@ -9936,7 +9936,7 @@
       "code": "016920",
       "price": "1130",
       "change_amt": "+0.80%",
-      "change_pct": "196,926",
+      "change_pct": "196,936",
       "volume": "1120",
       "status": "상승9"
     },
@@ -10017,7 +10017,7 @@
       "code": "310200",
       "price": "2035",
       "change_amt": "+0.74%",
-      "change_pct": "139,085",
+      "change_pct": "139,114",
       "volume": "2030",
       "status": "상승15"
     },
@@ -10035,7 +10035,7 @@
       "code": "058470",
       "price": "68900",
       "change_amt": "+0.73%",
-      "change_pct": "739,448",
+      "change_pct": "739,449",
       "volume": "68900",
       "status": "상승500"
     },
@@ -10044,7 +10044,7 @@
       "code": "357880",
       "price": "1783",
       "change_amt": "+0.73%",
-      "change_pct": "395,613",
+      "change_pct": "395,629",
       "volume": "1782",
       "status": "상승13"
     },
@@ -10089,7 +10089,7 @@
       "code": "264660",
       "price": "13140",
       "change_amt": "+0.69%",
-      "change_pct": "31,837",
+      "change_pct": "31,984",
       "volume": "13120",
       "status": "상승90"
     },
@@ -10098,7 +10098,7 @@
       "code": "282720",
       "price": "7400",
       "change_amt": "+0.68%",
-      "change_pct": "11,296",
+      "change_pct": "11,336",
       "volume": "7400",
       "status": "상승50"
     },
@@ -10152,7 +10152,7 @@
       "code": "056080",
       "price": "12290",
       "change_amt": "+0.66%",
-      "change_pct": "411,008",
+      "change_pct": "411,010",
       "volume": "12280",
       "status": "상승80"
     },
@@ -10197,7 +10197,7 @@
       "code": "052220",
       "price": "1793",
       "change_amt": "+0.62%",
-      "change_pct": "6,535",
+      "change_pct": "6,538",
       "volume": "1792",
       "status": "상승11"
     },
@@ -10323,7 +10323,7 @@
       "code": "006910",
       "price": "7370",
       "change_amt": "+0.55%",
-      "change_pct": "4,281,745",
+      "change_pct": "4,281,922",
       "volume": "7370",
       "status": "상승40"
     },
@@ -10386,7 +10386,7 @@
       "code": "348030",
       "price": "2975",
       "change_amt": "+0.51%",
-      "change_pct": "36,500",
+      "change_pct": "36,520",
       "volume": "2960",
       "status": "상승15"
     },
@@ -10431,7 +10431,7 @@
       "code": "036540",
       "price": "6040",
       "change_amt": "+0.50%",
-      "change_pct": "3,820,516",
+      "change_pct": "3,821,651",
       "volume": "6030",
       "status": "상승30"
     },
@@ -10890,7 +10890,7 @@
       "code": "101400",
       "price": "1690",
       "change_amt": "+0.30%",
-      "change_pct": "227,411",
+      "change_pct": "227,681",
       "volume": "1690",
       "status": "상승5"
     },
@@ -10917,7 +10917,7 @@
       "code": "950160",
       "price": "17470",
       "change_amt": "+0.29%",
-      "change_pct": "973,094",
+      "change_pct": "973,663",
       "volume": "17470",
       "status": "상승50"
     },
@@ -11079,7 +11079,7 @@
       "code": "100700",
       "price": "2450",
       "change_amt": "+0.20%",
-      "change_pct": "62,398",
+      "change_pct": "62,408",
       "volume": "2445",
       "status": "상승5"
     },
@@ -11106,7 +11106,7 @@
       "code": "377480",
       "price": "9890",
       "change_amt": "+0.20%",
-      "change_pct": "33,958",
+      "change_pct": "33,967",
       "volume": "9890",
       "status": "상승20"
     },
@@ -11115,7 +11115,7 @@
       "code": "389680",
       "price": "1977",
       "change_amt": "+0.20%",
-      "change_pct": "55,316",
+      "change_pct": "55,321",
       "volume": "1965",
       "status": "상승4"
     },
@@ -11223,7 +11223,7 @@
       "code": "209640",
       "price": "3020",
       "change_amt": "+0.17%",
-      "change_pct": "88,527",
+      "change_pct": "88,529",
       "volume": "3020",
       "status": "상승5"
     },
@@ -11241,7 +11241,7 @@
       "code": "065690",
       "price": "1846",
       "change_amt": "+0.16%",
-      "change_pct": "41,361",
+      "change_pct": "42,483",
       "volume": "1820",
       "status": "상승3"
     },
@@ -11286,7 +11286,7 @@
       "code": "242040",
       "price": "3065",
       "change_amt": "+0.16%",
-      "change_pct": "256,218",
+      "change_pct": "256,231",
       "volume": "3065",
       "status": "상승5"
     },
@@ -11304,7 +11304,7 @@
       "code": "041440",
       "price": "6740",
       "change_amt": "+0.15%",
-      "change_pct": "161,258",
+      "change_pct": "161,372",
       "volume": "6710",
       "status": "상승10"
     },
@@ -11376,7 +11376,7 @@
       "code": "035900",
       "price": "39550",
       "change_amt": "+0.13%",
-      "change_pct": "223,324",
+      "change_pct": "223,325",
       "volume": "39500",
       "status": "상승50"
     },
@@ -11457,7 +11457,7 @@
       "code": "419050",
       "price": "1663",
       "change_amt": "+0.12%",
-      "change_pct": "346,991",
+      "change_pct": "347,491",
       "volume": "1663",
       "status": "상승2"
     },
